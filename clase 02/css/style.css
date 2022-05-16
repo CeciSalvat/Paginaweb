@@ -1,0 +1,21 @@
+body{
+    background-color: crimson;
+}
+
+article{
+    background-color: beige;
+    border-radius: 10px;
+    padding: 10px;
+    border: #05fc2e solid 4px;
+    margin top: 15px;
+    margin bottom: 20px;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+br{
+    background-color: blueviolet;
+    color: darkblue;
+}
